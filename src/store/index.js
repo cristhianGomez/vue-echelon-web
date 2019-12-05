@@ -14,6 +14,7 @@ export default new Vuex.Store({
   
   
   state: {
+  menu: false,
     enterprise_data:''
   },
   getters: {
